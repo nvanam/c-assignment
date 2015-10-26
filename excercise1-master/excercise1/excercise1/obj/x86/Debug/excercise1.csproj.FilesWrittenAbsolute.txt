@@ -1,0 +1,5 @@
+/home/gautam/.net_projects/excercise1/excercise1/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/gautam/.net_projects/excercise1/excercise1/bin/Debug/excercise1.exe.mdb
+/home/gautam/.net_projects/excercise1/excercise1/bin/Debug/excercise1.exe
+/home/gautam/.net_projects/excercise1/excercise1/obj/x86/Debug/excercise1.exe
+/home/gautam/.net_projects/excercise1/excercise1/obj/x86/Debug/excercise1.exe.mdb

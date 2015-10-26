@@ -1,0 +1,4 @@
+C:\Users\gabbavaram\Downloads\excercise1\excercise1\program1\bin\Debug\program1.exe
+C:\Users\gabbavaram\Downloads\excercise1\excercise1\program1\bin\Debug\program1.pdb
+C:\Users\gabbavaram\Downloads\excercise1\excercise1\program1\obj\x86\Debug\program1.exe
+C:\Users\gabbavaram\Downloads\excercise1\excercise1\program1\obj\x86\Debug\program1.pdb

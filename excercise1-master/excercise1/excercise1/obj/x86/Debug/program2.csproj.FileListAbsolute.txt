@@ -1,0 +1,5 @@
+C:\Users\gabbavaram\Downloads\excercise1\excercise1\excercise1\obj\x86\Debug\excercise1.exe
+C:\Users\gabbavaram\Downloads\excercise1\excercise1\excercise1\bin\Debug\excercise1.exe
+C:\Users\gabbavaram\Downloads\excercise1\excercise1\excercise1\bin\Debug\excercise1.pdb
+C:\Users\gabbavaram\Downloads\excercise1\excercise1\excercise1\obj\x86\Debug\program2.csprojResolveAssemblyReference.cache
+C:\Users\gabbavaram\Downloads\excercise1\excercise1\excercise1\obj\x86\Debug\excercise1.pdb
